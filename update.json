@@ -1,17 +1,17 @@
 {
   "app": "AssetDesk",
-  "channel": "beta",
-  "latestVersion": "1.3.2",
-  "displayVersion": "1.3.2 beta2",
-  "build": 13202,
+  "channel": "stable",
+  "latestVersion": "1.3.3",
+  "displayVersion": "1.3.3",
+  "build": 13399,
   "releaseDate": "2026-07-03",
   "releasePageUrl": "https://github.com/IBAIVER/AssetDesk-Releases/releases/tag/AssetDesk_Download",
-  "installerUrl": "https://github.com/IBAIVER/AssetDesk-Releases/releases/download/AssetDesk_Download/AssetDesk_Setup_v1.3.2_beta2.exe",
-  "sha256": "0CF1592F5350EED275AD6EED4BDC91F26809974662B892E32DAD83B4A035AE99",
+  "installerUrl": "https://github.com/IBAIVER/AssetDesk-Releases/releases/download/AssetDesk_Download/AssetDesk_Setup_v1.3.3.exe",
+  "sha256": "4aff4605d801f47dc48fb78d3f36bb514f5794b3d84c614cacd2d52d21e3b76b",
   "mandatory": false,
   "notes": [
-    "修复批量视频水印部分视频无声问题",
-    "优化文件预览信息折叠",
-    "内置视频处理组件"
+    "新增 GitHub 在线更新检查与非弹窗更新提示。",
+    "修复批量视频水印部分视频导出后无声音的问题。",
+    "优化文件预览信息区域与右侧预览布局。"
   ]
 }
