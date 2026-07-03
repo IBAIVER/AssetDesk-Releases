@@ -5,8 +5,8 @@
   "displayVersion": "1.3.2 beta2",
   "build": 13202,
   "releaseDate": "2026-07-03",
-  "releasePageUrl": "https://github.com/IBAIVER/AssetDesk-Releases/releases/tag/v1.3.2-beta2",
-  "installerUrl": "https://github.com/IBAIVER/AssetDesk-Releases/releases/download/v1.3.2-beta2/AssetDesk_Setup_v1.3.2_beta2.exe",
+  "releasePageUrl": "https://github.com/IBAIVER/AssetDesk-Releases/releases/tag/AssetDesk_Download",
+  "installerUrl": "https://github.com/IBAIVER/AssetDesk-Releases/releases/download/AssetDesk_Download/AssetDesk_Setup_v1.3.2_beta2.exe",
   "sha256": "0CF1592F5350EED275AD6EED4BDC91F26809974662B892E32DAD83B4A035AE99",
   "mandatory": false,
   "notes": [
