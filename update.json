@@ -1,0 +1,17 @@
+{
+  "app": "AssetDesk",
+  "channel": "beta",
+  "latestVersion": "1.3.2",
+  "displayVersion": "1.3.2 beta2",
+  "build": 13202,
+  "releaseDate": "2026-07-03",
+  "releasePageUrl": "https://github.com/你的用户名/AssetDesk-Releases/releases/tag/v1.3.2-beta2",
+  "installerUrl": "https://github.com/你的用户名/AssetDesk-Releases/releases/download/v1.3.2-beta2/AssetDesk_Setup_v1.3.2_beta2.exe",
+  "sha256": "这里填安装包SHA256",
+  "mandatory": false,
+  "notes": [
+    "修复批量视频水印部分视频无声问题",
+    "优化文件预览信息折叠",
+    "内置视频处理组件"
+  ]
+}
