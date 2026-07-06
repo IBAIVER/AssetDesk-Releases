@@ -7,7 +7,7 @@
   "releaseDate": "2026-07-03",
   "releasePageUrl": "https://github.com/IBAIVER/AssetDesk-Releases/releases/tag/AssetDesk_Download",
   "installerUrl": "https://github.com/IBAIVER/AssetDesk-Releases/releases/download/AssetDesk_Download/AssetDesk_Setup_v1.3.3.exe",
-  "sha256": "4aff4605d801f47dc48fb78d3f36bb514f5794b3d84c614cacd2d52d21e3b76b",
+  "sha256": "97B930123A8A45A60EB855AFFAA750F0DB33C35CE6B178C06DAE425462911E96",
   "mandatory": false,
   "notes": [
     "新增 GitHub 在线更新检查与非弹窗更新提示。",
